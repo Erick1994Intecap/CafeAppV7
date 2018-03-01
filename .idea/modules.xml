@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CafeApp-master.iml" filepath="$PROJECT_DIR$/CafeApp-master.iml" />
-      <module fileurl="file://C:\Users\Android.REDES\AndroidStudioProjects\CafeApp-master\CafeAppV7.iml" filepath="C:\Users\Android.REDES\AndroidStudioProjects\CafeApp-master\CafeAppV7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CafeAppV7.iml" filepath="$PROJECT_DIR$/CafeAppV7.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
